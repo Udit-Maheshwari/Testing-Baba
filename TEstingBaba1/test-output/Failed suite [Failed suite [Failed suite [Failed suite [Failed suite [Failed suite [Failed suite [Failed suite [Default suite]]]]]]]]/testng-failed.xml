@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Default suite]]]]]]]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)">
+    <classes>
+      <class name="testing_baba_test.Testing_baba_Practice_test">
+        <methods>
+          <include name="updatewrongfile"/>
+          <include name="invalidusername"/>
+          <include name="getlaunchtestingbaba"/>
+          <include name="gmail"/>
+          <include name="invalidemail"/>
+          <include name="name"/>
+          <include name="clickonAutoComplete"/>
+        </methods>
+      </class> <!-- testing_baba_test.Testing_baba_Practice_test -->
+    </classes>
+  </test> <!-- Default test(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Failed suite [Default suite]]]]]]]]] -->
